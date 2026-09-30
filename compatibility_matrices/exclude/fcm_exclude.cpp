@@ -124,6 +124,7 @@ bool ShouldCheckMissingHidlHalsInFcm(const std::string& packageAndVersion) {
             "android.hardware.contexthub@1.2",
             "android.hardware.dumpstate@1.1",
             "android.hardware.health@2.1",
+            "android.hardware.ir@1.0",
             "android.hardware.radio.config@1.1",
             "android.hardware.radio.config@1.3",
             "android.hardware.radio@1.6",
